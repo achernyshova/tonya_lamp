@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/nur/.platformio/penv/bin:/Users/nur/.platformio/penv:/Users/nur/webOS_TV_SDK/CLI/bin:/Users/nur/esp/xtensa-esp32-elf/bin:/Users/nur/esp/esp-idf/tools:/Users/nur/bin:/Users/nur/.gem/ruby/2.3.0/bin:/Users/nur/.gem/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Wireshark.app/Contents/MacOS",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
